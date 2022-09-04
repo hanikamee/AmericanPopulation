@@ -1,2 +1,2 @@
 # AmericanPopulation
-This program performs population calculations on America
+This program performs various population calculations on America
